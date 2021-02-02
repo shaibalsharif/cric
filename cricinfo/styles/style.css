@@ -1,0 +1,40 @@
+.container {
+    text-align: center;
+}
+
+.temp {
+    width: 70%;
+    background-color: red;
+    text-align: center;
+    align-self: center;
+    align-content: center;
+    margin: auto;
+}
+
+.cards {
+    align-items: center;
+    align-content: center;
+    margin: auto;
+}
+
+#card {
+    padding: 1px;
+   box-sizing: border-box;
+    text-align: center;
+    border: 1px;
+    margin: 10px;
+}
+
+#scoreBoard {
+    font-size: 3rem;
+    background-color: beige;
+}
+
+#banner {
+    background-color: beige;
+}
+hr{
+    width:50%;
+    text-align:center;
+    border: 1px solid black;
+}
